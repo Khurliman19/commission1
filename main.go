@@ -57,5 +57,6 @@ func main() {
 	fmt.Println()
 	fmt.Println("AO ALIF TECH • Лицензия ЦБ РУз Nº 000010")
 	fmt.Println("Статус:", "Исполнено")
+	fmt.Println("Спасибо за использование Alif mobi")
 	fmt.Println("=====================================")
 }
